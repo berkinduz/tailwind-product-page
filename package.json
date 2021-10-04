@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-product-page",
+  "version": "1.0.0",
+  "description": "<h2>My Tailwind intro project</h2> <h4>In this project, I design a single page website for some product</h4>",
+  "main": "index.js",
+  "scripts": {
+    "build:tailwinds": "tailwind build src/style.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berkinduz/tailwind-product-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berkinduz/tailwind-product-page/issues"
+  },
+  "homepage": "https://github.com/berkinduz/tailwind-product-page#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.16"
+  }
+}
